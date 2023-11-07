@@ -1,0 +1,1 @@
+Pour ouvrir l'application, avec le serveur symfony aller a l'adresse : http://127.0.0.1:8000/homePage
